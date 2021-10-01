@@ -1,0 +1,7 @@
+{
+  "name": "teste-git-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Renan Joppert <renanjoppert@outlook.com>",
+  "license": "MIT"
+}
